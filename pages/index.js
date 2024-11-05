@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-//Aum Bajpayee's Museum Application
-=======
->>>>>>> b044901 (Museum-web-app)
 import React from 'react';
 import { Container, Row, Col, Image } from 'react-bootstrap';
 
